@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/codeLearn/c/cmake/build/GCC/Debug",
+  "command": "E:\\env\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\Sort.dir\\main.cpp.obj -c E:\\codeLearn\\c\\cmake\\main.cpp",
+  "file": "E:/codeLearn/c/cmake/main.cpp"
+}
+]
